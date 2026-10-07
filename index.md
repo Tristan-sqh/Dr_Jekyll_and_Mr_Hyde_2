@@ -4,7 +4,7 @@
 
 While this book may be old, its influence can still be seen in today's pop culture. This website will explore some of its history, its author and its impact while trying to remain as spoiler-free as possible.
 
-![image](./image/front_cover.jpg)
+<img src="./images/front_cover.jpg" width="50%">
 
 ## What would you like to know about?
 [Its author](author.md)
