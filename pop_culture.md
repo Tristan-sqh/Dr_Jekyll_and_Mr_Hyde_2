@@ -4,4 +4,4 @@ The impact this story has had over the years has been nothing short of tremendou
 
 ![image](./image/DrJ_MrH.png)
 
-[Homepage](index)
+[Homepage](index.md)
